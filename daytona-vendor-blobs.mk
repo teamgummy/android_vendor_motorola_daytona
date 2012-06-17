@@ -135,10 +135,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/daytona/proprietary/etc/touchpad/21/touchpad.cfg:system/etc/touchpad/21/touchpad.cfg \
     vendor/motorola/daytona/proprietary/etc/touchpad/22/touchpad.cfg:system/etc/touchpad/22/touchpad.cfg \
     vendor/motorola/daytona/proprietary/etc/bt_init.config:system/etc/bt_init.config \
-    vendor/motorola/sunfire/proprietary/etc/be_movie:system/etc/be_movie \
-    vendor/motorola/sunfire/proprietary/etc/be_photo:system/etc/be_photo \
+    vendor/motorola/daytona/proprietary/etc/be_movie:system/etc/be_movie \
+    vendor/motorola/daytona/proprietary/etc/be_photo:system/etc/be_photo \
     vendor/motorola/daytona/proprietary/app/FastDormancy.apk:system/app/FastDormancy.apk \
-    vendor/motorola/sunfire/proprietary/app/Usb.apk:system/app/Usb.apk \
+    vendor/motorola/daytona/proprietary/app/Usb.apk:system/app/Usb.apk \
     vendor/motorola/daytona/proprietary/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
     vendor/motorola/daytona/proprietary/etc/ppp/peers/pppd-ril.options:system/etc/ppp/peers/pppd-ril.options
 
@@ -154,8 +154,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/daytona/proprietary/lib/libnvmm_manager.so:system/lib/libnvmm_manager.so \
     vendor/motorola/daytona/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/motorola/daytona/proprietary/lib/libcamera.so:system/lib/libcamera.so \
-    vendor/motorola/sunfire/proprietary/lib/liboemcamera.so:obj/lib/libcamera.so \
-    vendor/motorola/sunfire/proprietary/lib/liboemcamera.so:system/lib/libcamera.so \
+    vendor/motorola/daytona/proprietary/lib/liboemcamera.so:obj/lib/libcamera.so \
+    vendor/motorola/daytona/proprietary/lib/liboemcamera.so:system/lib/libcamera.so \
     vendor/motorola/daytona/proprietary/lib/libnvodm_imager.so:system/lib/libnvodm_imager.so \
     vendor/motorola/daytona/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     vendor/motorola/daytona/proprietary/lib/libnvmm_utils.so:system/lib/libnvmm_utils.so \
