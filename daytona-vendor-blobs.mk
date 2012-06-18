@@ -252,5 +252,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/daytona/proprietary/etc/permissions/com.motorola.android.iextdispservice.xml:system/etc/permissions/com.motorola.android.iextdispservice.xml \
     vendor/motorola/daytona/proprietary/etc/permissions/com.motorola.android.imirrorservice.xml:system/etc/permissions/com.motorola.android.imirrorservice.xml \
     vendor/motorola/daytona/proprietary/app/ExtDispService.apk:system/app/ExtDispService.apk \
-    vendor/motorola/daytona/proprietary/app/MirrorService.apk:system/app/MirrorService.apk
+#    vendor/motorola/daytona/proprietary/app/MirrorService.apk:system/app/MirrorService.apk
 
